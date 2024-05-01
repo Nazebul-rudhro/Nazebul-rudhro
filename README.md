@@ -1,4 +1,4 @@
-![logo](https://github.com/Nazebul-rudhro/-Nazebul-rudhro/blob/main/cover_picture.png)
+![logo](https://github.com/Nazebul-rudhro/nazebul-rudhro/blob/main/cover_picture.png)
 <h1 align="center">Hi 👋, I'm Nazebul Hasan Rudhro</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
